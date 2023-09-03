@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/C++ connection/knowledge/try_cmake_2/build",
+  "command": "C:\\PROGRA~1\\TDM-GC~1\\bin\\G__~1.EXE   -g -o CMakeFiles\\EMS_system.dir\\EMS.cpp.obj -c \"D:\\C++ connection\\knowledge\\try_cmake_2\\EMS.cpp\"",
+  "file": "D:/C++ connection/knowledge/try_cmake_2/EMS.cpp",
+  "output": "CMakeFiles/EMS_system.dir/EMS.cpp.obj"
+},
+{
+  "directory": "D:/C++ connection/knowledge/try_cmake_2/build",
+  "command": "C:\\PROGRA~1\\TDM-GC~1\\bin\\G__~1.EXE   -g -o CMakeFiles\\EMS_system.dir\\workerManager.cpp.obj -c \"D:\\C++ connection\\knowledge\\try_cmake_2\\workerManager.cpp\"",
+  "file": "D:/C++ connection/knowledge/try_cmake_2/workerManager.cpp",
+  "output": "CMakeFiles/EMS_system.dir/workerManager.cpp.obj"
+},
+{
+  "directory": "D:/C++ connection/knowledge/try_cmake_2/build",
+  "command": "C:\\PROGRA~1\\TDM-GC~1\\bin\\G__~1.EXE   -g -o CMakeFiles\\EMS_system.dir\\employee.cpp.obj -c \"D:\\C++ connection\\knowledge\\try_cmake_2\\employee.cpp\"",
+  "file": "D:/C++ connection/knowledge/try_cmake_2/employee.cpp",
+  "output": "CMakeFiles/EMS_system.dir/employee.cpp.obj"
+},
+{
+  "directory": "D:/C++ connection/knowledge/try_cmake_2/build",
+  "command": "C:\\PROGRA~1\\TDM-GC~1\\bin\\G__~1.EXE   -g -o CMakeFiles\\EMS_system.dir\\manager.cpp.obj -c \"D:\\C++ connection\\knowledge\\try_cmake_2\\manager.cpp\"",
+  "file": "D:/C++ connection/knowledge/try_cmake_2/manager.cpp",
+  "output": "CMakeFiles/EMS_system.dir/manager.cpp.obj"
+},
+{
+  "directory": "D:/C++ connection/knowledge/try_cmake_2/build",
+  "command": "C:\\PROGRA~1\\TDM-GC~1\\bin\\G__~1.EXE   -g -o CMakeFiles\\EMS_system.dir\\boss.cpp.obj -c \"D:\\C++ connection\\knowledge\\try_cmake_2\\boss.cpp\"",
+  "file": "D:/C++ connection/knowledge/try_cmake_2/boss.cpp",
+  "output": "CMakeFiles/EMS_system.dir/boss.cpp.obj"
+}
+]

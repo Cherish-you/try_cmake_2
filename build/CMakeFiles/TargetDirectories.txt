@@ -1,0 +1,3 @@
+D:/C++ connection/knowledge/try_cmake_2/build/CMakeFiles/EMS_system.dir
+D:/C++ connection/knowledge/try_cmake_2/build/CMakeFiles/edit_cache.dir
+D:/C++ connection/knowledge/try_cmake_2/build/CMakeFiles/rebuild_cache.dir
